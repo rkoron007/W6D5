@@ -1,0 +1,40 @@
+.clock {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #D1FFD7;
+  color: #131313;
+  border: 2px solid #808782;
+}
+
+.clock h1 {
+  flex: 1;
+  padding-left: 15%;
+  font-family: 'Syncopate', sans-serif;
+  font-size: 70px;
+}
+.clock h2 {
+  flex: 1;
+  padding-left: 15%;
+  position: relative;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 36px;
+
+}
+.button-time{
+  /* width: 15%; */
+  /* display: flex;
+  justify-content: space-between; */
+  background-color: #BBC7A4;
+  width: 20%;
+  align-items: center;
+  height: 200px;
+}
+
+.button-time button{
+  font-size: 16px;
+  background-color: #FE5F55;
+  border-radius: 15%;
+
+}
