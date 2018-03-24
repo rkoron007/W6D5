@@ -18508,7 +18508,7 @@ var Tabs = function (_React$Component) {
         _react2.default.createElement(
           "article",
           null,
-          " "
+          " I'm Cool"
         )
       );
     }

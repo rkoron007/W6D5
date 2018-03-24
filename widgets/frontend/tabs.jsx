@@ -23,7 +23,7 @@ class Tabs extends React.Component {
           <button onClick = {this.selectTab(1)}>TWO</button>
           <button onClick = {this.selectTab(2)}>THREE</button>
       </ul>
-      <article> </article>
+      <article> I'm Cool</article>
     </div>
   );
   }
